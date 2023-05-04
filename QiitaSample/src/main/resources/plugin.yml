@@ -1,4 +1,0 @@
-name: "QiitaSample"
-version: "${project.version}"
-main: "com.gtihub.ta.qiitasample.QiitaSample"
-api-version: "1.19"
