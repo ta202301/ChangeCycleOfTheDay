@@ -1,0 +1,4 @@
+name: "ChangeCycleOfTheDay"
+version: "${project.version}"
+main: "com.gtihub.ta.changecycleoftheday.ChangeCycleOfTheDay"
+api-version: "1.19"
