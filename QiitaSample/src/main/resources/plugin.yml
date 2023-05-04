@@ -1,4 +1,4 @@
 name: "QiitaSample"
 version: "${project.version}"
-main: "com.github.ta.qiitasample.QiitaPlugin"
+main: "com.gtihub.ta.qiitasample.QiitaSample"
 api-version: "1.19"
